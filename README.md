@@ -14,6 +14,14 @@ Este projeto é um dashboard interativo para visualização e análise dos dados
 
 ---
 
+## Integrantes
+
+- Arthur
+- Kauan
+- Otavio
+
+---
+
 ## Requisitos
 
 - Python 3.10 ou superior
@@ -38,7 +46,7 @@ Windows:
 
 ```bash
 python -m venv venv
-.env\Scripts\activate
+.\venv\Scripts\activate
 ```
 
 3. Instale as dependências:
